@@ -1,0 +1,9 @@
+.city {
+    text-shadow: 2px 2px rgb(6, 49, 56);
+    background-color: tomato;
+    color: white;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 20px;
+  }
+  
